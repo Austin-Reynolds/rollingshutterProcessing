@@ -5,7 +5,7 @@ Written very quickly as a response to Matt Parker's video regarding Destin Sandl
 rolling shutter.
 
 To run/tinker with this sketch simply download the latest version of Processing from processing.org (it's free, but feel free to donate)
-and open the sketch. The speed of rotation is controlled by the global "period" variable, which effectively represents seconds per complete rotation.
+and open the sketch. The speed of rotation is controlled by the global "period" variable.
 
 I have also included a video of the sketch running if you'd rather not download Processing.
 
