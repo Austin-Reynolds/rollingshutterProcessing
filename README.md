@@ -10,4 +10,5 @@ and open the sketch. The speed of rotation is controlled by the global "period" 
 I have also included a video of the sketch running if you'd rather not download Processing.
 
 Destin's Video (SmarterEveryDay): https://youtu.be/dNVtMmLlnoE
+
 Matt's Video (standupmaths): https://youtu.be/nP1elMR5qjc
