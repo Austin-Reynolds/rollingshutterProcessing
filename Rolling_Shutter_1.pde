@@ -8,7 +8,7 @@ Matt's Video (standupmaths): https://youtu.be/nP1elMR5qjc
 */
 
 float a = 0;
-int period = 18; //seconds per revolution
+int period = 50;
 int rate = 12;
 float omega = TWO_PI / (rate * period);
 int propLength, propWidth;
