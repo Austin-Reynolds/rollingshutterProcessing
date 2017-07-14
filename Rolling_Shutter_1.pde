@@ -48,6 +48,6 @@ void draw() {
   stroke(255);
   line(0,line+2, width, line+2);
   line ++;
-  saveFrame();
+  //saveFrame();
   if(line == height) {noLoop();}
 }
